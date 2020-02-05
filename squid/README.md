@@ -37,3 +37,22 @@ sudo systemctl restart squid
 <h3>Test SQUID</h3>
 
 curl -x http://134.209.77.172:3128  --proxy-user proxyuser:pa33w0rd  https://www.google.com
+<hr>
+<h1>Re-Install SQUID</h1>
+<pre>
+apt-get --purge remove squid
+<br>
+apt-get --purge remove squid-common
+<br>
+apt-get --purge remove squid-langpack
+<br>
+sudo apt update -y
+<br>
+sudo apt -y install squid
+<br>
+sudo systemctl start squid
+<br>
+sudo systemctl enable squid
+<br>
+sudo systemctl status squid 
+</pre>

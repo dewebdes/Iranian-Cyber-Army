@@ -15,7 +15,7 @@ acl localnet src [source-ip-range]
 curl -x http://[YOUR-PROXY-IP]:3128 -I http://google.com
 <hr>
 <h2>PASS:USER</h2>
-<h3>Also, Add trusted IPs to squid.conf</h3>
+<h3>Add Users & Passwords to squid.conf</h3>
 <pre>
 auth_param basic program /usr/lib/squid/basic_ncsa_auth /etc/squid/passwd
 <br>

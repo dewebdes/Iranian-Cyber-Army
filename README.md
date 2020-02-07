@@ -8,7 +8,7 @@
 <hr />
 <h1>003:FATALITY Command, All Done.</h1>
     <a href="https://github.com/dewebdes/Iranian-Cyber-Army/tree/master/echo"><img src="https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/echo/echo.jpeg"></a>
-<h1>002:STEP</h1>
+<h1>002:PURE CLOUDING, Run & Understand</h1>
 <img src="https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/clouding.jpeg" />
-<h1>001:STEP</h1>
+<h1>001:WIKI</h1>
 <img src="https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/step001.jpeg" />

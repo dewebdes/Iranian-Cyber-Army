@@ -6,6 +6,12 @@
 <li><h4><a href="https://www.linkedin.com/posts/kaveh-eyni-08060b59_iran-hackers-soldiers-activity-6630478965909925888-7K4u">LinkedIn</a></h4></li>
 </ul>
 <hr />
+
+<h1>006:PYTHON for HACKERs</h1>
+<a href="https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/python">
+<img src="https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/python/py.jpeg" />
+</a>
+
 <h1>005:FIGHT with INTRUDERS</h1>
 <a href="https://github.com/dewebdes/Iranian-Cyber-Army/tree/master/ghost/fishing">
 <img src="https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/ghost/fishing/bg-img-01.jpg" />

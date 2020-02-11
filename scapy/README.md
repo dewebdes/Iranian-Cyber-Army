@@ -2,12 +2,11 @@
 <h2>python relaxlog.py</h2>
 <pre>
 import os
+import socket
 from scapy.all import *
 from pprint import pprint
 from scapy.layers.inet import IP
 from scapy.arch import pcapdnet
-from scapy.all import *
-import socket
 i = 1
 while 1>0:
 	ETH_P_ALL=0x0003

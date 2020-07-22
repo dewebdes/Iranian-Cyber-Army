@@ -76,3 +76,7 @@ Debian Linux Minimal
 <img src='https://github.com/dewebdes/fereng/blob/master/hub/009.PNG' />
 </p>
   
+<hr>
+<a href='https://github.com/dewebdes/fereng/tree/master/hub'>
+برای بخش های اضافه نشده  به این ریپوزیتوری مراجعه کنید
+</a>

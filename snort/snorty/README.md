@@ -38,3 +38,8 @@ Debian Linux Minimal
  <br>
 <img src='https://github.com/dewebdes/fereng/blob/master/hub/001.PNG' />
  
+<p>
+پسورد کاربر رووت رو عوض می کنیم
+<br>
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/002.PNG' />
+</p>

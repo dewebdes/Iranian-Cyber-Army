@@ -35,5 +35,6 @@
 در این مقاله از نرم افزار ها و سورس ها و نرم افزارهایی استفاده شده که هم  در ویندوز و هم لینوکس کار می کنند اما انتخاب 
 مقاله سیتم عامل دبین در حالت مینیمال است
 Debian Linux Minimal
+ <br>
 <img src='https://github.com/dewebdes/fereng/blob/master/hub/001.PNG' />
  

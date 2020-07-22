@@ -68,8 +68,9 @@ Debian Linux Minimal
 </p>
 
 <p>
-سرویس اکویید رو ریست می کنیم و از سیستم مشتری به پراکسی متصل می شویم
+سرویس اسکویید رو ریست می کنیم و از سیستم مشتری به پراکسی متصل می شویم
 <br>
 <img src='https://github.com/dewebdes/fereng/blob/master/hub/008.PNG' />
 <img src='https://github.com/dewebdes/fereng/blob/master/hub/009.PNG' />
 </p>
+  

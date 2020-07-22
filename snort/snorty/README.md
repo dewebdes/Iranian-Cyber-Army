@@ -43,3 +43,33 @@ Debian Linux Minimal
 <br>
 <img src='https://github.com/dewebdes/fereng/blob/master/hub/002.PNG' />
 </p>
+
+<p>
+سیستم عامل را آپدیت می کنیم
+<br>
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/004.PNG' />
+</p>
+
+<h2>
+002. نصب و تنظیم سرور پراکسی
+</h2>
+
+<p>
+نرم افزار اسکویید را نصب می کنیم
+<br>
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/005.PNG' />
+</p>
+
+<p>
+فایل کانفیگ اسکویید را ویرایش می کنیم و یک آی پی به عنوان اولین مشتری را تراستد می کنیم
+<br>
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/006.PNG' />
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/007.PNG' />
+</p>
+
+<p>
+سرویس اکویید رو ریست می کنیم و از سیستم مشتری به پراکسی متصل می شویم
+<br>
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/008.PNG' />
+<img src='https://github.com/dewebdes/fereng/blob/master/hub/009.PNG' />
+</p>

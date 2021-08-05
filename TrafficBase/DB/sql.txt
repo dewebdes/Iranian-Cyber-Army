@@ -1,0 +1,70 @@
+create database trabase;
+use trabase;
+
+CREATE TABLE layers(
+id mediumint(9) NOT NULL AUTO_INCREMENT,
+namefull text COLLATE utf8mb4_unicode_ci,
+clsname text COLLATE utf8mb4_unicode_ci,
+finddt text COLLATE utf8mb4_unicode_ci,
+handeled text COLLATE utf8mb4_unicode_ci,
+tblname text COLLATE utf8mb4_unicode_ci,
+fldnames longtext COLLATE utf8mb4_unicode_ci,
+typ text COLLATE utf8mb4_unicode_ci,
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE packets(
+id mediumint(9) NOT NULL AUTO_INCREMENT,
+hashid text COLLATE utf8mb4_unicode_ci,
+hexraw LONGTEXT COLLATE utf8mb4_unicode_ci,
+leyars text COLLATE utf8mb4_unicode_ci,
+dt text COLLATE utf8mb4_unicode_ci,
+admflags text COLLATE utf8mb4_unicode_ci,
+src text COLLATE utf8mb4_unicode_ci,
+dst text COLLATE utf8mb4_unicode_ci,
+idnum text COLLATE utf8mb4_unicode_ci,
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE filters(
+id mediumint(9) NOT NULL AUTO_INCREMENT,
+tblname text COLLATE utf8mb4_unicode_ci,
+filname text COLLATE utf8mb4_unicode_ci,
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE commands(
+id mediumint(9) NOT NULL AUTO_INCREMENT,
+cmdname text COLLATE utf8mb4_unicode_ci,
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-------------------------------------------
+
+CREATE TABLE ips(
+id mediumint(9) NOT NULL AUTO_INCREMENT,
+pktid text COLLATE utf8mb4_unicode_ci,
+version text COLLATE utf8mb4_unicode_ci,
+ihl text COLLATE utf8mb4_unicode_ci,
+tos text COLLATE utf8mb4_unicode_ci,
+len text COLLATE utf8mb4_unicode_ci,
+fid text COLLATE utf8mb4_unicode_ci,
+flags text COLLATE utf8mb4_unicode_ci,
+frag text COLLATE utf8mb4_unicode_ci,
+ttl text COLLATE utf8mb4_unicode_ci,
+proto text COLLATE utf8mb4_unicode_ci,
+chksum text COLLATE utf8mb4_unicode_ci,
+src text COLLATE utf8mb4_unicode_ci,
+dst text COLLATE utf8mb4_unicode_ci,
+options text COLLATE utf8mb4_unicode_ci,
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE ethrs(
+id mediumint(9) NOT NULL AUTO_INCREMENT,
+pktid text COLLATE utf8mb4_unicode_ci,
+dst text COLLATE utf8mb4_unicode_ci,
+src text COLLATE utf8mb4_unicode_ci,
+type text COLLATE utf8mb4_unicode_ci,
+PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

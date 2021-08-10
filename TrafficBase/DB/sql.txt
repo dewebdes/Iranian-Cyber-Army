@@ -15,7 +15,7 @@ PRIMARY KEY (`id`)
 
 CREATE TABLE packets(
 id mediumint(9) NOT NULL AUTO_INCREMENT,
-hashid text COLLATE utf8mb4_unicode_ci,
+idx text COLLATE utf8mb4_unicode_ci,
 hexraw LONGTEXT COLLATE utf8mb4_unicode_ci,
 leyars text COLLATE utf8mb4_unicode_ci,
 dt text COLLATE utf8mb4_unicode_ci,

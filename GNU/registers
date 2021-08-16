@@ -1,0 +1,24 @@
+rax            0x555555555149      93824992235849
+rbx            0x555555555180      93824992235904
+rcx            0x555555555180      93824992235904
+rdx            0x7fffffffe1e8      140737488347624
+rsi            0x7fffffffe1d8      140737488347608
+rdi            0x1                 1
+rbp            0x0                 0x0
+rsp            0x7fffffffe0e8      0x7fffffffe0e8
+r8             0x0                 0
+r9             0x7ffff7fe0d50      140737354009936
+r10            0x7ffff7ffcf68      140737354125160
+r11            0x206               518
+r12            0x555555555060      93824992235616
+r13            0x7fffffffe1d0      140737488347600
+r14            0x0                 0
+r15            0x0                 0
+rip            0x555555555149      0x555555555149 <main>
+eflags         0x246               [ PF ZF IF ]
+cs             0x33                51
+ss             0x2b                43
+ds             0x0                 0
+es             0x0                 0
+fs             0x0                 0
+gs             0x0

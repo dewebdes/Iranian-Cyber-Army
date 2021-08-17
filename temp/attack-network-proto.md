@@ -15,6 +15,8 @@ Mitmproxy
 Fuzzing, Packet Generation, and Vulnerability Exploitation Frameworks
 American Fuzzy Lop (AFL)
 Kali Linux
+Nessus, OpenVAS, and Metasploit
+BackTrack
 Metasploit Framework
 Scapy
 Sulley - fuzz
@@ -101,3 +103,78 @@ Bypassing Canaries with Stack Buffer Underflow
 
 /dev/tcp/127.0.0.1/1234
 /bin/bash
+
+CVE-(four digit year)-(four digit number unique to the year maybe random)
+
+ Introduction to Ethical Hacking
+■ Footprinting and Reconnaissance
+■ Scanning Networks
+■ Enumeration
+■ Vulnerability Analysis
+■ System Hacking
+■ Malware Threats
+■ Sniffing
+■ Social Engineering
+■ Denial-of-Service
+■ Session Hijacking
+■ Evading IDS, Firewalls, and Honeypots
+■ Hacking Web Servers
+■ Hacking Web Applications
+■ SQL Injection
+■ Hacking Wireless Networks
+Certifications and Degrees 85
+■ Hacking Mobile Platforms
+■ IoT Hacking
+■ Cloud Computing
+■ Cryptography
+Getting Comfortable with Kali Linux
+■ Command Line Fun
+■ Practical Tools
+■ Bash Scripting
+■ Passive Information Gathering
+■ Active Information Gathering
+■ Vulnerability Scanning
+■ Web Application Attacks
+■ Introduction to Buffer Overflows
+■ Windows Buffer Overflows
+■ Linux Buffer Overflows
+■ Client-Side Attacks
+■ Locating Public Exploits
+■ Fixing Exploits
+■ File Transfers
+■ Antivirus Evasion
+■ Privilege Escalation
+■ Password Attacks
+■ Port Redirection and Tunneling
+■ Active Directory Attacks
+■ The Metasploit Framework
+■ PowerShell Empire
+■ Assembling the Pieces: Penetration Test Breakdown
+■ Trying Harder: The Labs
+Cross Site Scripting Attacks
+■ Directory Traversal / LFI Attacks
+■ Backdooring PE Files
+■ Advanced Exploitation Techniques
+■ ASLR
+■ Egghunters
+■ Exploit Writing (Zero-Day Approach)
+■ Attacking Network Infrastructure
+■ Bypassing Cisco Access Lists Using Spoofed SNMP Requests
+■ Sniffing Remote Traffic via GRE tunnels
+■ Compromising Router Configs
+■ IEEE 802.11
+■ Wireless Networks
+■ Packets and Network Interaction
+■ Linux Wireless Stack and Drivers
+■ Aircrack-ng Essentials
+■ Cracking WEP with Connected Clients
+■ Cracking WEP via a Client
+■ Cracking Clientless WEP Networks
+■ Bypassing WEP Shared Key Authentication
+■ Cracking WPA/WPA2 PSK with Aircrack-ng
+■ Cracking WPA with JTR and Aircrack-ng
+■ Cracking WPA with coWPAtty
+■ Cracking WPA with Pyrit
+■ Additional Aircrack-ng Tools
+■ Wireless Reconnaissance
+■ Rogue Access Points

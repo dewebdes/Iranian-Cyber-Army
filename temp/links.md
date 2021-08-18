@@ -186,6 +186,8 @@ https://github.com/cloud-sniper/cloud-sniper
 <br>
 https://github.com/fireeye/red_team_tool_countermeasures
 <br>
+https://github.com/Sentinel-One/CobaltStrikeParser
+<br>
 
 <hr>
 <h1>Zero Click</h1>

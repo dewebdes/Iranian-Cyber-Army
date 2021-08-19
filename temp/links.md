@@ -317,6 +317,8 @@ https://github.com/SigmaHQ/sigma
 <h1>Google</h1>
 https://github.com/opsdisk/pagodo
 <br>
+https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43
+<br>
 
 <hr>
 <h1>FaceBook</h1>

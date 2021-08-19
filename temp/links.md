@@ -335,6 +335,8 @@ https://www.linkedin.com/in/amin-kamali/detail/recent-activity/shares/
 <br>
 https://www.linkedin.com/in/connor-mcgarr-7522a6152/
 <br>
+https://www.linkedin.com/in/jonaslejon/detail/recent-activity/shares/
+<br>
 
 <hr>
 <h1>Platforms</h1>

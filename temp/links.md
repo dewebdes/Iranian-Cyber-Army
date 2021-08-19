@@ -292,6 +292,8 @@ https://github.com/snoopysecurity/OSCE-Prep
 <br>
 https://github.com/OWASP/CheatSheetSeries
 <br>
+https://github.com/OWASP/owasp-mstg
+<br>
 
 <hr>
 <h1>DNS</h1>

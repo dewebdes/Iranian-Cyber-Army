@@ -376,6 +376,11 @@ https://github.com/openraven/magpie
 <br>
 https://github.com/cloud-sniper/cloud-sniper
 <br>
+https://hackerone.com/cloudflare?type=team
+<br>
+https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+<br>
+
 <hr>
 
 <h1>Email Market</h1>

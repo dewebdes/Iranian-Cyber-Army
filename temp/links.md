@@ -64,6 +64,8 @@ https://www.armandata.ir/security-awareness/vulnerability-news/applications/cisc
 <br>
 https://www.blackhatethicalhacking.com/news/unpatched-fortinet-bug-allows-firewall-takeovers/?__cf_chl_jschl_tk__=pmd_SvGHP8r5sRFGqEFo_7jKdUmHZuBuo_sgizdBEr_uLCw-1629392336-0-gqNtZGzNAhCjcnBszQn9
 <br>
+https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+<br>
 
 <hr>
 <h1>Pentest</h1>
@@ -124,6 +126,8 @@ https://github.com/scipag/vulscan
 https://github.com/TRSTN4/EagleShell
 <br>
 https://www.tenable.com/
+<br>
+https://github.com/OWASP/Amass
 <br>
 
 <hr>

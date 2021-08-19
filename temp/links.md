@@ -375,3 +375,11 @@ https://github.com/eksperience/KnockOutlook
 <br>
 https://os2int.com/toolbox/advancing-your-email-investigations-using-iky/
 <br>
+<hr>
+
+<h1>obfuscator</h1>
+https://github.com/javascript-obfuscator/javascript-obfuscator
+<br>
+https://github.com/xTrimy/HTML-Obfuscator
+<br>
+<hr>

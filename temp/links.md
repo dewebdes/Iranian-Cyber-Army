@@ -290,6 +290,8 @@ https://github.com/CyberSecurityUP/OSCE-Complete-Guide
 <br>
 https://github.com/snoopysecurity/OSCE-Prep
 <br>
+https://github.com/OWASP/CheatSheetSeries
+<br>
 
 <hr>
 <h1>DNS</h1>

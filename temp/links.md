@@ -54,6 +54,8 @@ https://github.com/0vercl0k/CVE-2021-28476
 <br>
 https://www.armandata.ir/security-awareness/vulnerability-news/applications/cisco/cisco-vulnerabilities-august-2021
 <br>
+https://www.blackhatethicalhacking.com/news/unpatched-fortinet-bug-allows-firewall-takeovers/?__cf_chl_jschl_tk__=pmd_SvGHP8r5sRFGqEFo_7jKdUmHZuBuo_sgizdBEr_uLCw-1629392336-0-gqNtZGzNAhCjcnBszQn9
+<br>
 
 <hr>
 <h1>Pentest</h1>

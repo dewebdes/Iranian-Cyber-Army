@@ -13,6 +13,8 @@ https://github.com/PortSwigger/turbo-intruder
 <br>
 https://github.com/nccgroup/BurpSuiteHTTPSmuggler
 <br>
+https://github.com/jonaslejon/malicious-pdf
+<br>
 
 <hr>
 <h1>Wordpress</h1>

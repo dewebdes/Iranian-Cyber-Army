@@ -39,6 +39,8 @@ https://github.com/0x09AL/IIS-Raid
 <br>
 https://github.com/nu11secur1ty/IIS-Backdoor
 <br>
+https://blog.sucuri.net/2021/08/examining-unique-magento-backdoors.html
+<br>
 
 <hr>
 <h1>CVE</h1>

@@ -204,6 +204,8 @@ https://github.com/fireeye/red_team_tool_countermeasures
 <br>
 https://github.com/Sentinel-One/CobaltStrikeParser
 <br>
+https://github.com/pbssubhash/h0neytr4p
+<br>
 
 <hr>
 <h1>Zero Click</h1>

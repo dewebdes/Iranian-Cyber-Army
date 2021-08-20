@@ -281,6 +281,8 @@ https://github.com/c6fc/warcannon
 <h1>Anti Virus</h1>
 https://liangroup.net/blog/bypass-anti-virus-with-veil-framework/
 <br>
+https://news.sophos.com/en-us/2021/06/02/amsi-bypasses-remain-tricks-of-the-malware-trade/
+<br>
 
 <hr>
 <h1>Exploit DB</h1>

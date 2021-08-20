@@ -66,6 +66,8 @@ https://www.blackhatethicalhacking.com/news/unpatched-fortinet-bug-allows-firewa
 <br>
 https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
 <br>
+https://www.rapid7.com/blog/post/2021/08/17/fortinet-fortiweb-os-command-injection/
+<br>
 
 <hr>
 <h1>Pentest</h1>

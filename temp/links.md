@@ -131,6 +131,8 @@ https://www.tenable.com/
 <br>
 https://github.com/OWASP/Amass
 <br>
+https://github.com/OJ/gobuster
+<br>
 
 <hr>
 <h1>Exploit</h1>

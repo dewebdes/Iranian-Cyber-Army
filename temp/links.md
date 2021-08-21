@@ -304,6 +304,8 @@ https://github.com/OWASP/CheatSheetSeries
 <br>
 https://github.com/OWASP/owasp-mstg
 <br>
+https://attack.socprime.com/
+<br>
 
 <hr>
 <h1>DNS</h1>

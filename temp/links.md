@@ -214,6 +214,8 @@ https://github.com/Sentinel-One/CobaltStrikeParser
 <br>
 https://github.com/pbssubhash/h0neytr4p
 <br>
+https://github.com/JPCERTCC/MalConfScan
+<br>
 
 <hr>
 <h1>Zero Click</h1>
@@ -444,3 +446,9 @@ https://dev.to/devmount/9-evil-bash-commands-explained-4k5e
 <br>
 
 <hr>
+<h1>Reverse Engine</h1>
+https://github.com/volatilityfoundation/volatility
+<br>
+
+<hr>
+

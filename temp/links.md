@@ -235,6 +235,7 @@ https://stackoverflow.com/questions/17470817/format-the-text-in-javascript-alert
 <br>
 https://github.com/davidkonrad/toUnicodeVariant
 <br>
+https://en.wikipedia.org/wiki/List_of_Unicode_characters
 
 <hr>
 <h1>Browser</h1>

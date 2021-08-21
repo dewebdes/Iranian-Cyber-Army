@@ -249,6 +249,8 @@ https://stackoverflow.com/questions/9215440/find-a-way-to-find-characters-that-d
 <br>
 https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
 <br>
+https://blog.sonarsource.com/moodle-remote-code-execution?redirect=rips
+<br>
 
 <hr>
 <h1>Browser</h1>

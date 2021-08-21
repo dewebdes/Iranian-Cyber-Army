@@ -231,6 +231,10 @@ https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 <br>
 https://github.com/daxAKAhackerman/XSS-Catcher
 <br>
+https://stackoverflow.com/questions/17470817/format-the-text-in-javascript-alert-box
+<br>
+https://github.com/davidkonrad/toUnicodeVariant
+<br>
 
 <hr>
 <h1>Browser</h1>

@@ -243,6 +243,8 @@ https://stackoverflow.com/questions/9628879/javascript-regex-username-validation
 <br>
 https://stackoverflow.com/questions/9215440/find-a-way-to-find-characters-that-doesnt-match-the-regex-is-javascript
 <br>
+https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
+<br>
 
 <hr>
 <h1>Browser</h1>

@@ -177,6 +177,10 @@ https://github.com/malwaredllc/byob
 <br>
 https://blog.cloudflare.com/inside-shellshock/
 <br>
+https://ieeexplore.ieee.org/document/7162493
+<br>
+https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
+<br>
 
 <hr>
 <h1>Firewall</h1>

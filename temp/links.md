@@ -438,3 +438,9 @@ https://github.com/javascript-obfuscator/javascript-obfuscator
 https://github.com/xTrimy/HTML-Obfuscator
 <br>
 <hr>
+
+<h1>Command Injection</h1>
+https://dev.to/devmount/9-evil-bash-commands-explained-4k5e
+<br>
+
+<hr>

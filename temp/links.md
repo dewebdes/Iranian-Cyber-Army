@@ -175,6 +175,8 @@ https://github.com/cyberark/kubesploit
 <br>
 https://github.com/malwaredllc/byob
 <br>
+https://blog.cloudflare.com/inside-shellshock/
+<br>
 
 <hr>
 <h1>Firewall</h1>

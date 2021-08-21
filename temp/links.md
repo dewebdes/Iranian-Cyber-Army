@@ -236,6 +236,13 @@ https://stackoverflow.com/questions/17470817/format-the-text-in-javascript-alert
 https://github.com/davidkonrad/toUnicodeVariant
 <br>
 https://en.wikipedia.org/wiki/List_of_Unicode_characters
+<br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet
+<br>
+https://stackoverflow.com/questions/9628879/javascript-regex-username-validation
+<br>
+https://stackoverflow.com/questions/9215440/find-a-way-to-find-characters-that-doesnt-match-the-regex-is-javascript
+<br>
 
 <hr>
 <h1>Browser</h1>

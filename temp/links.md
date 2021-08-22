@@ -166,6 +166,8 @@ https://github.com/carlospolop/PEASS-ng
 <br>
 https://github.com/orgs/nccgroup/repositories
 <br>
+https://github.com/boku7/CobaltStrikeReflectiveLoader
+<br>
 
 <hr>
 <h1>DDOS</h1>

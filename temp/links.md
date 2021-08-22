@@ -368,6 +368,12 @@ https://www.google.com/search?q=spoof+facebook+user&sxsrf=ALeKk03W1QZRdeviIck-0s
 <br>
 https://os2int.com/toolbox/identifying-and-extracting-data-with-the-facebook-and-instagram-osint-add-on/
 <br>
+https://github.com/W1nz0N/FBH
+<br>
+<hr>
+<h1>Instagram</h1>
+https://github.com/Araekiel/instahunter
+<br>
 
 <hr>
 <h1>Github</h1>

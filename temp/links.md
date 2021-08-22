@@ -456,4 +456,9 @@ https://github.com/volatilityfoundation/volatility
 <br>
 
 <hr>
-
+<h1>word list</h1>
+https://github.com/dewebdes/SecLists
+<br>
+https://github.com/dewebdes/dirbuster-ng
+<br>
+<hr>

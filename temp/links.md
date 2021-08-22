@@ -330,6 +330,9 @@ https://github.com/OWASP/owasp-mstg
 <br>
 https://attack.socprime.com/
 <br>
+https://kwcsec.gitbook.io/the-red-team-handbook/
+<br>
+
 
 <hr>
 <h1>DNS</h1>

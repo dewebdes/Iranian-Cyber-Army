@@ -68,6 +68,8 @@ https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
 <br>
 https://www.rapid7.com/blog/post/2021/08/17/fortinet-fortiweb-os-command-injection/
 <br>
+https://msrc.microsoft.com/update-guide/releaseNote
+<br>
 
 <hr>
 <h1>Pentest</h1>
@@ -398,6 +400,8 @@ https://www.linkedin.com/in/amin-kamali/detail/recent-activity/shares/
 https://www.linkedin.com/in/connor-mcgarr-7522a6152/
 <br>
 https://www.linkedin.com/in/jonaslejon/detail/recent-activity/shares/
+<br>
+https://www.linkedin.com/in/meisameslahi/detail/recent-activity/shares/
 <br>
 
 <hr>

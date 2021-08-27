@@ -459,6 +459,9 @@ https://github.com/javascript-obfuscator/javascript-obfuscator
 <br>
 https://github.com/xTrimy/HTML-Obfuscator
 <br>
+https://www.npmjs.com/package/gulp-uglify
+<br>
+
 <hr>
 
 <h1>Command Injection</h1>

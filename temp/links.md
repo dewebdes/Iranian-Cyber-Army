@@ -482,3 +482,7 @@ https://github.com/dewebdes/SecLists
 https://github.com/dewebdes/dirbuster-ng
 <br>
 <hr>
+<h1>Camera</h1>
+http://www.insecam.org/en/bycountry/IR/
+<br>
+

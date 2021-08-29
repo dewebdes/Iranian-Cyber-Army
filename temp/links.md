@@ -485,6 +485,8 @@ https://github.com/dewebdes/dirbuster-ng
 <h1>Camera</h1>
 http://www.insecam.org/en/bycountry/IR/
 <br>
+https://github.com/JettChenT/scan-for-webcams
+<br>
 
 <hr>
 <h1>Burt Force</h1>

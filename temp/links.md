@@ -486,3 +486,9 @@ https://github.com/dewebdes/dirbuster-ng
 http://www.insecam.org/en/bycountry/IR/
 <br>
 
+<hr>
+<h1>Burt Force</h1>
+https://github.com/rarecoil/pantagrule
+<br>
+<hr>
+

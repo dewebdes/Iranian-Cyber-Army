@@ -338,6 +338,8 @@ https://kwcsec.gitbook.io/the-red-team-handbook/
 <br>
 https://www.google.com/search?q=battery+github+tryhackme&oq=battery+github+tryhack&aqs=chrome.1.69i57j33i10i160.17217j0j7&sourceid=chrome&ie=UTF-8
 <br>
+https://github.com/clingeric/forensic-toolkit
+<br>
 
 
 <hr>

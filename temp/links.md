@@ -497,4 +497,8 @@ https://github.com/JettChenT/scan-for-webcams
 https://github.com/rarecoil/pantagrule
 <br>
 <hr>
+<h1>Banking</h1>
+https://onlyfans.com/
+<br>
+<hr>
 

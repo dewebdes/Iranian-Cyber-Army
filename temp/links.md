@@ -135,6 +135,8 @@ https://github.com/OWASP/Amass
 <br>
 https://github.com/OJ/gobuster
 <br>
+https://github.com/inguardians/peirates
+<br>
 
 <hr>
 <h1>Exploit</h1>

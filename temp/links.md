@@ -226,6 +226,8 @@ https://github.com/JPCERTCC/MalConfScan
 <br>
 https://github.com/twelvesec/rootend
 <br>
+https://github.com/Velocidex/velociraptor
+<br>
 
 <hr>
 <h1>Zero Click</h1>

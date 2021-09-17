@@ -72,6 +72,8 @@ https://msrc.microsoft.com/update-guide/releaseNote
 <br>
 https://nvd.nist.gov/vuln/detail/CVE-2020-1910
 <br>
+https://www.whatsapp.com/security/advisories/2021/
+<br>
 
 <hr>
 <h1>Pentest</h1>

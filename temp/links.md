@@ -70,6 +70,8 @@ https://www.rapid7.com/blog/post/2021/08/17/fortinet-fortiweb-os-command-injecti
 <br>
 https://msrc.microsoft.com/update-guide/releaseNote
 <br>
+https://nvd.nist.gov/vuln/detail/CVE-2020-1910
+<br>
 
 <hr>
 <h1>Pentest</h1>

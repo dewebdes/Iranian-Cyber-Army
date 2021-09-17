@@ -174,6 +174,8 @@ https://github.com/boku7/CobaltStrikeReflectiveLoader
 <br>
 https://github.com/angus-y/PyIris-backdoor
 <br>
+https://github.com/brightio/penelope
+<br>
 
 <hr>
 <h1>DDOS</h1>

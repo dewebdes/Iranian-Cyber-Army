@@ -141,6 +141,8 @@ https://github.com/OJ/gobuster
 <br>
 https://github.com/inguardians/peirates
 <br>
+https://github.com/klezVirus/inceptor
+<br>
 
 <hr>
 <h1>Exploit</h1>

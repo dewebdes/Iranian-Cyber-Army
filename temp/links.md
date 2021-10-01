@@ -143,6 +143,10 @@ https://github.com/inguardians/peirates
 <br>
 https://github.com/klezVirus/inceptor
 <br>
+https://p30download.ir/fa/entry/69631/
+<br>
+https://www.coresecurity.com/products/core-impact
+<br>
 
 <hr>
 <h1>Exploit</h1>

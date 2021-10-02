@@ -147,6 +147,8 @@ https://p30download.ir/fa/entry/69631/
 <br>
 https://www.coresecurity.com/products/core-impact
 <br>
+https://github.com/cdk-team/CDK
+<br>
 
 <hr>
 <h1>Exploit</h1>

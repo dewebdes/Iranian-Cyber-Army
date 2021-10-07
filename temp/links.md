@@ -188,6 +188,8 @@ https://github.com/angus-y/PyIris-backdoor
 <br>
 https://github.com/brightio/penelope
 <br>
+https://github.com/mm0r1/exploits
+<br>
 
 <hr>
 <h1>DDOS</h1>

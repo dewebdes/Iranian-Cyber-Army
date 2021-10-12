@@ -19,6 +19,8 @@ https://github.com/jonaslejon/malicious-pdf
 <h1>Phone-Home</h1>
 https://github.com/jonaslejon/malicious-pdf
 <br>
+https://github.com/snovvcrash/NimHollow
+<br>
 
 <hr>
 <h1>Wordpress</h1>
@@ -191,6 +193,8 @@ https://github.com/angus-y/PyIris-backdoor
 https://github.com/brightio/penelope
 <br>
 https://github.com/mm0r1/exploits
+<br>
+https://github.com/snovvcrash/NimHollow
 <br>
 
 <hr>

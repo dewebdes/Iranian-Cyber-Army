@@ -78,6 +78,8 @@ https://www.whatsapp.com/security/advisories/2021/
 <br>
 https://github.com/blasty/CVE-2021-41773
 <br>
+https://ppn.snovvcrash.rocks/
+<br>
 
 <hr>
 <h1>Pentest</h1>

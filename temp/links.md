@@ -15,6 +15,9 @@ https://github.com/nccgroup/BurpSuiteHTTPSmuggler
 <br>
 https://github.com/jonaslejon/malicious-pdf
 <br>
+https://github.com/synacktiv/HopLa
+<br>
+
 <hr>
 <h1>Phone-Home</h1>
 https://github.com/jonaslejon/malicious-pdf

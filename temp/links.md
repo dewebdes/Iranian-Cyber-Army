@@ -83,6 +83,10 @@ https://github.com/blasty/CVE-2021-41773
 <br>
 https://ppn.snovvcrash.rocks/
 <br>
+https://github.com/noob-hackers?tab=repositories
+<br>
+https://github.com/ToR-0?tab=repositories
+<br>
 
 <hr>
 <h1>Pentest</h1>

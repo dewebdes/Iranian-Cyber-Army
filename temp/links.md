@@ -24,6 +24,8 @@ https://github.com/jonaslejon/malicious-pdf
 <br>
 https://github.com/snovvcrash/NimHollow
 <br>
+https://github.com/noob-hackers/sneakphish
+<br>
 
 <hr>
 <h1>Wordpress</h1>

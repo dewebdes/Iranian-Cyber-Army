@@ -91,6 +91,10 @@ https://github.com/ToR-0?tab=repositories
 <br>
 https://github.com/wwong99/pentest-notes
 <br>
+https://github.com/wwong99/hacktricks
+<br>
+https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
+<br>
 
 <hr>
 <h1>Pentest</h1>

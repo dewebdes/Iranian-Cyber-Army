@@ -275,6 +275,8 @@ https://github.com/Velocidex/velociraptor
 <br>
 https://github.com/Sysinternals/SysmonForLinux
 <br>
+https://github.com/p0dalirius/LDAPmonitor
+<br>
 
 <hr>
 <h1>Zero Click</h1>

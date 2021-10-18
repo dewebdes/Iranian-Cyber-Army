@@ -273,6 +273,8 @@ https://github.com/twelvesec/rootend
 <br>
 https://github.com/Velocidex/velociraptor
 <br>
+https://github.com/Sysinternals/SysmonForLinux
+<br>
 
 <hr>
 <h1>Zero Click</h1>

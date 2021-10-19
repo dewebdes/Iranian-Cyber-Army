@@ -95,6 +95,8 @@ https://github.com/wwong99/hacktricks
 <br>
 https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
 <br>
+https://github.com/orgs/optiv/repositories
+<br>
 
 <hr>
 <h1>Pentest</h1>

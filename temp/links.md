@@ -277,6 +277,8 @@ https://github.com/Sysinternals/SysmonForLinux
 <br>
 https://github.com/p0dalirius/LDAPmonitor
 <br>
+https://github.com/optiv/Registry-Recon
+<br>
 
 <hr>
 <h1>Zero Click</h1>

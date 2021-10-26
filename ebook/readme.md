@@ -1,3 +1,13 @@
+<h3>توجه</h3>
+<p>
+فایل های پی دی اف کتاب ها به درخواست قانونی ناشرین اصلی از این صفحه حذف شدند
+  <br>
+  https://github.com/github/dmca/blob/master/2021/10/2021-10-15-mcgraw-hill.md
+  <br>
+  در صورت نیاز برای دریافت رایگان این فایل ها و کتاب های بیشتر از طریق صفحه لینکداین با من در ارتباط باشید
+<br>
+  https://www.linkedin.com/in/eyni-kave/
+</p>
 <h1>بررسی و دانلود رایگان پنج کتاب تاریخی مخصوص هکرها تا سال 2021</h1>
 <img src='https://github.com/dewebdes/Iranian-Cyber-Army/blob/master/ebook/poster.jpg' />
 <hr/>

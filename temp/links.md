@@ -19,12 +19,19 @@ https://github.com/synacktiv/HopLa
 <br>
 
 <hr>
+<h1>ssl</h1>
+https://github.com/paranoidninja/CarbonCopy
+<br>
+
+<hr>
 <h1>Phone-Home</h1>
 https://github.com/jonaslejon/malicious-pdf
 <br>
 https://github.com/snovvcrash/NimHollow
 <br>
 https://github.com/noob-hackers/sneakphish
+<br>
+https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 <br>
 
 <hr>
@@ -96,6 +103,16 @@ https://github.com/wwong99/hacktricks
 https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
 <br>
 https://github.com/orgs/optiv/repositories
+<br>
+https://github.com/ly4k/CallbackHell
+<br>
+https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/
+<br>
+https://githubmemory.com/repo/Jaquarh/CVE-2020-15778
+<br>
+https://github.com/Ne3o1/PayLoadAllTheThings
+<br>
+https://github.com/Ne3o1/Pentestingtools
 <br>
 
 <hr>
@@ -172,6 +189,14 @@ https://www.coresecurity.com/products/core-impact
 <br>
 https://github.com/cdk-team/CDK
 <br>
+https://www.linkedin.com/in/mavrik51/detail/recent-activity/shares/
+<br>
+
+<hr>
+<h1>backdoor</h1>
+
+https://github.com/Official22XC/Shell-Backdoor
+<br>
 
 <hr>
 <h1>Exploit</h1>
@@ -221,6 +246,12 @@ https://github.com/ToR-0/Arbitrium-RAT
 <br>
 https://github.com/login-securite/DonPAPI
 <br>
+https://github.com/r00tkiiT/reverse-shell-generator
+<br>
+https://github.com/ParrotSec/mimikatz
+<br>
+https://github.com/S3cur3Th1sSh1t/OffensiveVBA
+<br>
 
 <hr>
 <h1>DDOS</h1>
@@ -237,6 +268,17 @@ https://ieeexplore.ieee.org/document/7162493
 https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
 <br>
 https://github.com/kitabisa/mubeng
+<br>
+
+<hr>
+<h1>bash</h1>
+https://fossbytes.com/most-dangerous-linux-commands/
+<br>
+https://www.cyberciti.biz/faq/understanding-bash-fork-bomb/
+<br>
+https://www.linkedin.com/posts/patrick-hoogeveen-xoxroot_here-we-go-again-deadly-strings-root-activity-6858813954811068416-Szto
+<br>
+https://www.linkedin.com/in/patrick-hoogeveen-xoxroot/detail/recent-activity/
 <br>
 
 <hr>

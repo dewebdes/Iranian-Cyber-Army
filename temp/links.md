@@ -22,6 +22,8 @@ https://github.com/synacktiv/HopLa
 <h1>SQL Inject</h1>
 https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
 <br>
+https://portswigger.net/support/sql-injection-bypassing-common-filters
+<br>
 
 <hr>
 <h1>ssl</h1>

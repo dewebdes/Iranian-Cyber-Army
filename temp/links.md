@@ -392,6 +392,10 @@ https://www.darkreading.com/attacks-breaches/wardrivers-can-still-crack-70-of-wi
 <br>
 https://www.youtube.com/watch?v=CfjEqqFmfY4
 <br>
+https://hashcat.net/wiki/doku.php?id=example_hashes
+<br>
+https://github.com/ohmybahgosh/RockYou2021.txt
+<br>
 
 <hr>
 <h1>ransomware</h1>

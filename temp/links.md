@@ -387,6 +387,11 @@ https://www.kali.org/blog/passing-hash-remote-desktop/
 <br>
 
 <hr>
+<h1>WIFI</h1>
+https://www.darkreading.com/attacks-breaches/wardrivers-can-still-crack-70-of-wifi-passwords
+<br>
+
+<hr>
 <h1>ransomware</h1>
 https://github.com/yt0ng/Pegasus
 <br>

@@ -390,6 +390,8 @@ https://www.kali.org/blog/passing-hash-remote-desktop/
 <h1>WIFI</h1>
 https://www.darkreading.com/attacks-breaches/wardrivers-can-still-crack-70-of-wifi-passwords
 <br>
+https://www.youtube.com/watch?v=CfjEqqFmfY4
+<br>
 
 <hr>
 <h1>ransomware</h1>

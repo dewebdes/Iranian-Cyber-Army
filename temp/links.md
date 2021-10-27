@@ -19,6 +19,11 @@ https://github.com/synacktiv/HopLa
 <br>
 
 <hr>
+<h1>SQL Inject</h1>
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+<br>
+
+<hr>
 <h1>ssl</h1>
 https://github.com/paranoidninja/CarbonCopy
 <br>

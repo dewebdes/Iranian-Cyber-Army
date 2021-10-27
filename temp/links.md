@@ -280,6 +280,8 @@ https://www.linkedin.com/posts/patrick-hoogeveen-xoxroot_here-we-go-again-deadly
 <br>
 https://www.linkedin.com/in/patrick-hoogeveen-xoxroot/detail/recent-activity/
 <br>
+https://www.secjuice.com/p/9b7c52cb-99d7-4827-be09-1ddeec12d123/
+<br>
 
 <hr>
 <h1>Firewall</h1>

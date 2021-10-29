@@ -121,6 +121,8 @@ https://github.com/Ne3o1/PayLoadAllTheThings
 <br>
 https://github.com/Ne3o1/Pentestingtools
 <br>
+https://blog.lightspin.io/nginx-custom-snippets
+<br>
 
 <hr>
 <h1>Pentest</h1>

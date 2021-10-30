@@ -616,9 +616,17 @@ https://github.com/JettChenT/scan-for-webcams
 <br>
 
 <hr>
+<h1>Try Hack Me</h1>
+https://www.youtube.com/watch?v=RBLrM4Nm4WE
+<br>
+<hr>
+
 <h1>Burt Force</h1>
 https://github.com/rarecoil/pantagrule
 <br>
+https://www.youtube.com/watch?v=RBLrM4Nm4WE
+<br>
+
 <hr>
 <h1>Banking</h1>
 https://onlyfans.com/

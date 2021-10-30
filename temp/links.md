@@ -123,6 +123,8 @@ https://github.com/Ne3o1/Pentestingtools
 <br>
 https://blog.lightspin.io/nginx-custom-snippets
 <br>
+https://github.com/frankwxu/digital-forensics-lab
+<br>
 
 <hr>
 <h1>Pentest</h1>

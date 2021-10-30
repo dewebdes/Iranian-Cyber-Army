@@ -200,6 +200,8 @@ https://github.com/cdk-team/CDK
 <br>
 https://www.linkedin.com/in/mavrik51/detail/recent-activity/shares/
 <br>
+https://github.com/penetrarnya-tm/WeaponizeKali.sh
+<br>
 
 <hr>
 <h1>backdoor</h1>

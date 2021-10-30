@@ -263,6 +263,8 @@ https://github.com/ParrotSec/mimikatz
 <br>
 https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 <br>
+https://github.com/byt3bl33d3r/CrackMapExec
+<br>
 
 <hr>
 <h1>DDOS</h1>

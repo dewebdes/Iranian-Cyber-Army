@@ -125,6 +125,8 @@ https://blog.lightspin.io/nginx-custom-snippets
 <br>
 https://github.com/frankwxu/digital-forensics-lab
 <br>
+http://malapi.io/
+<br>
 
 <hr>
 <h1>Pentest</h1>

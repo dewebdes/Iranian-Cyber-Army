@@ -644,6 +644,11 @@ https://onlyfans.com/
 <br>
 <hr>
 
+<h1>Offline</h1>
+https://github.com/hdm/nextnet
+<br>
+<hr>
+
 <h1>LoT</h1>
 https://github.com/Telefonica/HomePWN
 <br>

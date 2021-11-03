@@ -616,6 +616,9 @@ https://github.com/dewebdes/SecLists
 <br>
 https://github.com/dewebdes/dirbuster-ng
 <br>
+https://weakpass.com/wordlist/1948
+<br>
+
 <hr>
 <h1>Camera</h1>
 http://www.insecam.org/en/bycountry/IR/

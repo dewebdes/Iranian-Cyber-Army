@@ -131,6 +131,8 @@ https://github.com/alt3kx/CVE-2021-26084_PoC
 <br>
 https://github.com/NorthernSec/CVE-Scan
 <br>
+https://github.com/netbiosX/Checklists/blob/master/Microsoft%20Exchange.md
+<br>
 
 <hr>
 <h1>Pentest</h1>

@@ -129,6 +129,8 @@ http://malapi.io/
 <br>
 https://github.com/alt3kx/CVE-2021-26084_PoC
 <br>
+https://github.com/NorthernSec/CVE-Scan
+<br>
 
 <hr>
 <h1>Pentest</h1>

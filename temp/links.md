@@ -679,4 +679,8 @@ https://users.cs.fiu.edu/~carbunar/bedrock.pdf
 <br>
 https://github.com/nexxius/Pentest-Strata-for-Bedrock
 <br>
+<hr>
+<h1>windows</h1>
+https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/
+<br>
 

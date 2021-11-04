@@ -310,6 +310,8 @@ https://www.secjuice.com/p/9b7c52cb-99d7-4827-be09-1ddeec12d123/
 
 <hr>
 <h1>Firewall</h1>
+https://security.tosinso.com/fa/articles/44399/%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-LYNIS-%DA%86%DB%8C%D8%B3%D8%AA-%D9%88-%DA%86%D9%87-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%DB%8C-%D8%AF%D8%A7%D8%B1%D8%AF%D8%9F
+<br>
 https://github.com/nsacyber/Mitigating-Web-Shells
 <br>
 https://gbhackers.com/firewalk-network-security-tool/

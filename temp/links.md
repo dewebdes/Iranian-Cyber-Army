@@ -127,6 +127,8 @@ https://github.com/frankwxu/digital-forensics-lab
 <br>
 http://malapi.io/
 <br>
+https://github.com/alt3kx/CVE-2021-26084_PoC
+<br>
 
 <hr>
 <h1>Pentest</h1>
@@ -268,6 +270,8 @@ https://github.com/ParrotSec/mimikatz
 https://github.com/S3cur3Th1sSh1t/OffensiveVBA
 <br>
 https://github.com/byt3bl33d3r/CrackMapExec
+<br>
+https://twitter.com/CyberWarship/status/1455545245513527298
 <br>
 
 <hr>

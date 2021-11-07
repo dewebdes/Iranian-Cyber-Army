@@ -292,6 +292,8 @@ https://github.com/byt3bl33d3r/CrackMapExec
 <br>
 https://twitter.com/CyberWarship/status/1455545245513527298
 <br>
+https://bruteratel.com/research/feature-update/2021/06/01/PE-Reflection-Long-Live-The-King/
+<br>
 
 <hr>
 <h1>DDOS</h1>

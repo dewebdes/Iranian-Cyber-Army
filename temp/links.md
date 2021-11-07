@@ -1,3 +1,8 @@
+<h1>Expert Tools - Not Free</h1>
+https://exploitpack.com/#pricing
+<br>
+<hr>
+
 <h1>AWS</h1>
 https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training
 <br>

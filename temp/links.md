@@ -1,6 +1,8 @@
 <h1>Expert Tools - Not Free</h1>
 https://exploitpack.com/#pricing
 <br>
+https://wpscan.com/api
+<br>
 <hr>
 
 <h1>AWS</h1>

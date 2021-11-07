@@ -146,6 +146,8 @@ https://github.com/NorthernSec/CVE-Scan
 <br>
 https://github.com/netbiosX/Checklists/blob/master/Microsoft%20Exchange.md
 <br>
+https://github.com/RickGeex/ProxyLogon
+<br>
 
 <hr>
 <h1>Pentest</h1>

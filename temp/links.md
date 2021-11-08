@@ -1,6 +1,9 @@
 <h1>Evil Text</h1>
 https://github.com/nickboucher/trojan-source
 <br>
+https://gist.github.com/jonaslejon/cdd4744173f760b2c56f3189be1941b6
+<br>
+
 <hr>
 
 <h1>Expert Tools - Not Free</h1>
@@ -541,6 +544,9 @@ https://sector035.nl/articles/getting-a-grasp-on-google-ids
 https://sector035.nl/articles/keeping-a-grip-on-google-ids
 <br>
 https://github.com/mxrch/GHunt
+<br>
+https://mrd0x.com/phishing-with-google-domain/
+<br>
 
 <hr>
 <h1>FaceBook</h1>

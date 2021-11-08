@@ -168,6 +168,8 @@ https://github.com/netbiosX/Checklists/blob/master/Microsoft%20Exchange.md
 <br>
 https://github.com/RickGeex/ProxyLogon
 <br>
+https://github.com/mstxq17/cve-2020-1472
+<br>
 
 <hr>
 <h1>Pentest</h1>

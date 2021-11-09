@@ -693,6 +693,8 @@ https://www.youtube.com/watch?v=RBLrM4Nm4WE
 <br>
 https://www.youtube.com/results?search_query=try+hack+me+walkthrough
 <br>
+https://youtu.be/v8pJDTpaLXY
+<br>
 
 <hr>
 

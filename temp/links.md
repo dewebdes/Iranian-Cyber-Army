@@ -52,6 +52,8 @@ https://github.com/jonaslejon/malicious-pdf
 <br>
 https://github.com/synacktiv/HopLa
 <br>
+https://portswigger.net/burp/documentation/desktop/tools/dominvader
+<br>
 
 <hr>
 <h1>SQL Inject</h1>

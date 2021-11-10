@@ -174,6 +174,8 @@ https://github.com/RickGeex/ProxyLogon
 <br>
 https://github.com/mstxq17/cve-2020-1472
 <br>
+https://github.com/HuskyHacks/ShadowSteal
+<br>
 
 <hr>
 <h1>Pentest</h1>

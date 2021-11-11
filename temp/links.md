@@ -66,6 +66,8 @@ https://portswigger.net/support/sql-injection-bypassing-common-filters
 <h1>ssl</h1>
 https://github.com/paranoidninja/CarbonCopy
 <br>
+https://www.doyler.net/security-not-included/cracking-256-bit-rsa-keys
+<br>
 
 <hr>
 <h1>Phone-Home</h1>

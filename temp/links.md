@@ -569,6 +569,8 @@ https://github.com/mxrch/GHunt
 <br>
 https://mrd0x.com/phishing-with-google-domain/
 <br>
+https://medium.com/@fcwdbrqmr/5min-400-using-google-dork-1df6bbe0f9fc
+<br>
 
 <hr>
 <h1>FaceBook</h1>

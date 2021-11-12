@@ -178,6 +178,8 @@ https://github.com/mstxq17/cve-2020-1472
 <br>
 https://github.com/HuskyHacks/ShadowSteal
 <br>
+https://www.randori.com/blog/cve-2021-3064/
+<br>
 
 <hr>
 <h1>Pentest</h1>

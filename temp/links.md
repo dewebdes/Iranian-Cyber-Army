@@ -403,6 +403,8 @@ https://github.com/p0dalirius/LDAPmonitor
 <br>
 https://github.com/optiv/Registry-Recon
 <br>
+https://github.com/DavidXanatos/DiskCryptor
+<br>
 
 <hr>
 <h1>Zero Click</h1>

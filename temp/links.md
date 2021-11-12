@@ -501,6 +501,8 @@ https://github.com/Neo23x0/sysmon-config
 <br>
 https://github.com/SwiftOnSecurity/sysmon-config
 <br>
+https://www.blackhat.com/eu-21/briefings/schedule/index.html#veni-no-vidi-no-vici-attacks-on-etw-blind-edr-sensors-24842
+<br>
 
 <hr>
 <h1>Crwel</h1>
@@ -736,5 +738,7 @@ https://github.com/nexxius/Pentest-Strata-for-Bedrock
 <hr>
 <h1>windows</h1>
 https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/
+<br>
+https://www.blackhat.com/eu-21/briefings/schedule/index.html#veni-no-vidi-no-vici-attacks-on-etw-blind-edr-sensors-24842
 <br>
 

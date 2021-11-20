@@ -559,6 +559,8 @@ https://thehackernews.com/2021/08/bugs-in-managed-dns-services-cloud-let.html
 <br>
 https://zeltser.com/c2-dns-tunneling/
 <br>
+https://blog.gigamon.com/2021/01/20/dns-c2-sandwich-a-novel-approach/
+<br>
 
 <hr>
 <h1>Logs</h1>

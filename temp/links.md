@@ -417,6 +417,8 @@ https://github.com/optiv/Registry-Recon
 <br>
 https://github.com/DavidXanatos/DiskCryptor
 <br>
+https://github.com/horsicq/DIE-engine
+<br>
 
 <hr>
 <h1>Zero Click</h1>

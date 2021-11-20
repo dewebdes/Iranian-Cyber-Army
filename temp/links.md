@@ -23,6 +23,10 @@ https://github.com/nickboucher/trojan-source
 <br>
 https://gist.github.com/jonaslejon/cdd4744173f760b2c56f3189be1941b6
 <br>
+https://pastebin.com/8iC4Vjnp
+<br>
+https://twitter.com/egyp7/status/1461444887279243268
+<br>
 
 <hr>
 

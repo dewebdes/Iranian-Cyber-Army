@@ -561,6 +561,8 @@ https://zeltser.com/c2-dns-tunneling/
 <br>
 https://blog.gigamon.com/2021/01/20/dns-c2-sandwich-a-novel-approach/
 <br>
+https://github.com/iagox86/dnscat2
+<br>
 
 <hr>
 <h1>Logs</h1>

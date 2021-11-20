@@ -557,6 +557,8 @@ https://github.com/mosajjal/dnsmonster#manual-installation
 <br>
 https://thehackernews.com/2021/08/bugs-in-managed-dns-services-cloud-let.html
 <br>
+https://zeltser.com/c2-dns-tunneling/
+<br>
 
 <hr>
 <h1>Logs</h1>

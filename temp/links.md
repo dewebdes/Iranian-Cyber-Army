@@ -583,6 +583,8 @@ https://mrd0x.com/phishing-with-google-domain/
 <br>
 https://medium.com/@fcwdbrqmr/5min-400-using-google-dork-1df6bbe0f9fc
 <br>
+https://mrd0x.com/abusing-google-drives-email-file-functionality/?no-cache=1
+<br>
 
 <hr>
 <h1>FaceBook</h1>

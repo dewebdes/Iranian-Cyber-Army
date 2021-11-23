@@ -281,20 +281,42 @@ https://github.com/Official22XC/Shell-Backdoor
 <hr>
 <h1>Exploit</h1>
 https://github.com/0dayCTF/reverse-shell-generator
+<p>
+#reverse_shell_generator #webview
+</p>
 <br>
 https://github.com/gentilkiwi/mimikatz
+<p>
+#Windows #extract_password #hash #PIN #kerberos
+</p>
 <br>
 https://soft98.ir/software/password/3811-l0phtcrack.html
+<p>
+#Windows #extract_password #hash #PIN #kerberos
+</p>
 <br>
-https://hakin9.org/gimmesh-a-tool-that-generates-a-custom-cheatsheet-for-reverse-shell-file-transfer-and-msfvenom/
+https://github.com/A3h1nt/gimmeSH
+<p>
+  #reverse_shell_generator
+</p>
 <br>
-https://github.com/connormcgarr/cThreadHijack#building
+https://github.com/connormcgarr/cThreadHijack
+<p>
+  #BOF #windows #thread_hijacking #remote
+</p>
 <br>
 https://github.com/connormcgarr/Exploit-Development
+<p>
+  #Exploit_Development #ASLR #ROP #Browser #kernel
+</p>
 <br>
 https://connormcgarr.github.io/
+<p>
+  #Exploit_Development #ASLR #ROP #Browser #kernel
+</p>
 <br>
 https://github.com/connormcgarr/LittleCorporal
+<p>#csharp #.net #word #virus #windows #thread_hijacking #remote</p>
 <br>
 https://github.com/cyberark/kubesploit
 <br>

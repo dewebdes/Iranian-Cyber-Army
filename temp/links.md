@@ -1,7 +1,11 @@
 <h1>FUD RAT</h1>
 https://github.com/persianhydra/Xeexe-TopAntivirusEvasion
 <br>
+https://github.com/ToR-0/Arbitrium-RAT
+<br>
 https://www.youtube.com/watch?v=N7fasCiFPY0
+<br>
+https://github.com/snovvcrash/NimHollow
 <br>
 
 <hr>

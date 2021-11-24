@@ -9,7 +9,11 @@ https://github.com/snovvcrash/NimHollow
 <br>
 https://github.com/BigO-Moha/Telegram-DropperRat
 <br>
-
+https://github.com/swagkarna/PuttyorMalware/tree/d3a6d835de6067510d192462b575e136c73a18a2
+<br>
+https://github.com/swagkarna/Hande-Stealer
+<br>
+https://github.com/9-s3c/osprey-v3/blob/master/osprey3.py
 <hr>
 
 <h1>.NET</h1>

@@ -1,3 +1,11 @@
+<h1>FUD RAT</h1>
+https://github.com/persianhydra/Xeexe-TopAntivirusEvasion
+<br>
+https://www.youtube.com/watch?v=N7fasCiFPY0
+<br>
+
+<hr>
+
 <h1>.NET</h1>
 https://github.com/tyranid/ExploitRemotingService
 <br>
@@ -319,46 +327,101 @@ https://github.com/connormcgarr/LittleCorporal
 <p>#csharp #.net #word #virus #windows #thread_hijacking #remote</p>
 <br>
 https://github.com/cyberark/kubesploit
+<p>
+  #post_exploitation #http2 
+</p>
 <br>
-https://github.com/Fahrj/reverse-ssh#requirements
+https://github.com/Fahrj/reverse-ssh
+<p>
+#reverse_connection  #ssh #honeypot
+</p>
 <br>
 https://pwncat.org/
+<p>
+  #bind_shell #reverse_shell
+</p>
 <br>
-https://gist.github.com/bcoles
+https://github.com/bcoles
+<p>
+  #local #kernel #exploit
+</p>
 <br>
 https://github.com/malwaredllc/byob
+<p>
+  #post_exploitation
+</p>
 <br>
 https://github.com/carlospolop/PEASS-ng
+<p>
+  #privilege #escalation #checklist #firewall
+</p>
 <br>
 https://github.com/orgs/nccgroup/repositories
+<p>
+  #repo
+</p>
 <br>
 https://github.com/boku7/CobaltStrikeReflectiveLoader
+<p>
+  #Cobalt_Strike
+</p>
 <br>
 https://github.com/angus-y/PyIris-backdoor
+<p>
+#reverse_connection #framework
+</p>
 <br>
 https://github.com/brightio/penelope
+<p>
+#reverse_connection #framework
+</p>
 <br>
 https://github.com/mm0r1/exploits
+<p>
+  #php #exploit
+</p>
 <br>
 https://github.com/snovvcrash/NimHollow
+<p>
+  #virus #home_call #reverse #connection #Process_hollowing
+</p>
 <br>
 https://github.com/jonathandata1/ios_15_rce
+<p>
+  #reverse #browser #ios
+</p>
 <br>
 https://github.com/ToR-0/Arbitrium-RAT
+<p>
+  #remote_access_trojan #RAT #Fully_UnDetectable #FUD #virus #reverse #connection
+</p>
 <br>
 https://github.com/login-securite/DonPAPI
-<br>
-https://github.com/r00tkiiT/reverse-shell-generator
-<br>
-https://github.com/ParrotSec/mimikatz
+<p>
+  #windows #password #spider #Dump_secrets
+</p>
+
+
 <br>
 https://github.com/S3cur3Th1sSh1t/OffensiveVBA
+<p>
+  #VBA #virus
+</p>
 <br>
 https://github.com/byt3bl33d3r/CrackMapExec
+<p>
+  #post_exploitation #active_directory
+</p>
 <br>
 https://twitter.com/CyberWarship/status/1455545245513527298
+<p>
+  #windows #exploit #learn
+</p>
 <br>
 https://bruteratel.com/research/feature-update/2021/06/01/PE-Reflection-Long-Live-The-King/
+<p>
+  #post_exploitation #repo
+</p>
 <br>
 
 <hr>

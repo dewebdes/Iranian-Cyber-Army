@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=N7fasCiFPY0
 <br>
 https://github.com/snovvcrash/NimHollow
 <br>
+https://github.com/BigO-Moha/Telegram-DropperRat
+<br>
 
 <hr>
 

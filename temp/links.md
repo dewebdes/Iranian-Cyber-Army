@@ -14,6 +14,10 @@ https://github.com/swagkarna/PuttyorMalware/tree/d3a6d835de6067510d192462b575e13
 https://github.com/swagkarna/Hande-Stealer
 <br>
 https://github.com/9-s3c/osprey-v3/blob/master/osprey3.py
+<br>
+https://github.com/enaqx/awesome-pentest
+<br>
+
 <hr>
 
 <h1>Repo</h1>

@@ -16,6 +16,11 @@ https://github.com/swagkarna/Hande-Stealer
 https://github.com/9-s3c/osprey-v3/blob/master/osprey3.py
 <hr>
 
+<h1>Repo</h1>
+https://github.com/enaqx/awesome-pentest
+<br>
+<hr>
+
 <h1>.NET</h1>
 https://github.com/tyranid/ExploitRemotingService
 <br>

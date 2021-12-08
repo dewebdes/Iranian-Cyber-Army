@@ -1,7 +1,7 @@
 <h1>FUD RAT</h1>
-https://null-byte.wonderhowto.com/how-to/evading-av-software/
+https://null-byte.wonderhowto.com/how-to/hacking-windows-10-bypass-virustotal-amsi-detection-signatures-with-chimera-0333967/
 <br>
-https://null-byte.wonderhowto.com/how-to/hack-like-pro-evade-av-software-with-shellter-0168504/
+https://null-byte.wonderhowto.com/how-to/evading-av-software/
 <br>
 https://data-encoder.com/buying-data-encoder-crypter-bronze-package/
 <br>

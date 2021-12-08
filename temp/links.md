@@ -1,4 +1,6 @@
 <h1>FUD RAT</h1>
+https://macrosec.tech/index.php/2020/09/20/creating-a-fud-backdoor/
+<br>
 https://hackyshacky.com/blog/bypass-antivirus-make-fud/
 <br>
 https://github.com/LimerBoy/ToxicEye

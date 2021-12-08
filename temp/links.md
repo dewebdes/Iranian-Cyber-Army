@@ -1,4 +1,6 @@
 <h1>FUD RAT</h1>
+https://www.yeahhub.com/generate-100-fud-backdoor-thefatrat-windows-10-exploitation/
+<br>
 https://github.com/screetsec/TheFatRat
 <br>
 https://null-byte.wonderhowto.com/how-to/hacking-windows-10-bypass-virustotal-amsi-detection-signatures-with-chimera-0333967/

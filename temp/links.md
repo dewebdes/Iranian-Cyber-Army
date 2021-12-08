@@ -1,4 +1,6 @@
 <h1>FUD RAT</h1>
+https://data-encoder.com/buying-data-encoder-crypter-bronze-package/
+<br>
 https://null-byte.wonderhowto.com/forum/creating-completely-undetectable-executable-under-15-minutes-0175114/
 <br>
 https://macrosec.tech/index.php/2020/09/20/creating-a-fud-backdoor/

@@ -1,4 +1,6 @@
 <h1>FUD RAT</h1>
+https://null-byte.wonderhowto.com/how-to/evading-av-software/
+<br>
 https://null-byte.wonderhowto.com/how-to/hack-like-pro-evade-av-software-with-shellter-0168504/
 <br>
 https://data-encoder.com/buying-data-encoder-crypter-bronze-package/

@@ -1,4 +1,6 @@
 <h1>FUD RAT</h1>
+https://hackyshacky.com/blog/bypass-antivirus-make-fud/
+<br>
 https://github.com/LimerBoy/ToxicEye
 <br>
 https://github.com/0xPh0enix/njCrypter

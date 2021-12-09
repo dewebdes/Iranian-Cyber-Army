@@ -1,11 +1,18 @@
 <h1>FUD RAT</h1>
+https://www.youtube.com/watch?v=tRVFE7TuAlc
+<p>#steghide</p>
+<br>
 https://www.youtube.com/watch?v=MDq_TFYynEY
+<p>#hex #zip #filename</p>
 <br>
 https://github.com/CaptThomas/Image-Virus
+<p>#virus #snippt #windows</p>
 <br>
 https://null-byte.wonderhowto.com/how-to/hide-virus-inside-fake-picture-0168183/
+<p>#virus #icon</p>
 <br>
 https://github.com/expobrain/javascript-js2png
+<p>#js #obfcouser</p>
 <br>
 https://github.com/OsandaMalith/Exe2Image
 <br>

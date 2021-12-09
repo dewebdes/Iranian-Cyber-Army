@@ -1,4 +1,6 @@
 <h1>FUD RAT</h1>
+https://null-byte.wonderhowto.com/how-to/hide-virus-inside-fake-picture-0168183/
+<br>
 https://github.com/expobrain/javascript-js2png
 <br>
 https://github.com/OsandaMalith/Exe2Image

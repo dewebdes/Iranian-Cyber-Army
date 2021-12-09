@@ -1,6 +1,6 @@
 <h1>FUD RAT</h1>
 https://www.youtube.com/watch?v=tRVFE7TuAlc
-<p>#steghide</p>
+<p>#steghide #Steganography</p>
 <br>
 https://www.youtube.com/watch?v=MDq_TFYynEY
 <p>#hex #zip #filename</p>

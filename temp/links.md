@@ -1,4 +1,11 @@
 <h1>FUD RAT</h1>
+https://github.com/bolonobolo/av_evasion/blob/master/PE_Injection/Behind%20image%20Dropper/implant.cpp
+<br>
+https://blackcloud.me/the-payload-is-behind-kitties/
+<p>
+#windows #image #codedropper #virus
+</p>
+<br>
 https://github.com/Viralmaniar/Powershell-RAT
 <p>
 #virus #repo #vbs

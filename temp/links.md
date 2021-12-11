@@ -1,5 +1,15 @@
 <h1>FUD RAT</h1>
+https://github.com/cryptax/angeapk
+<p>
+#android #apk #in #image #rat #fud
+</p>
+https://github.com/Qtty/AngeCryption
+<p>
+#android #etc.. #to #image #pdf ... #combine #steganography #cryptography
+</p>
 https://www.youtube.com/watch?v=hajOlvLhYJY
+<br>
+https://www.blackhat.com/docs/eu-14/materials/eu-14-Apvrille-Hide-Android-Applications-In-Images.pdf
 <p>
 #android #image #rat
 </p>

@@ -9,6 +9,8 @@ https://github.com/vusec/drammer
 <br>
 https://github.com/ufrisk/pcileech
 <br>
+https://github.com/BryanGIG/LibDumper
+<br>
 
 <hr>
 

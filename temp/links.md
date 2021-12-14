@@ -1,3 +1,22 @@
+<h1>Android OS</h1>
+https://github.com/carlospolop/hacktricks/blob/master/mobile-apps-pentesting/android-app-pentesting/webview-attacks.md
+<br>
+https://github.com/anatolikalysch/roots_a11y
+<br>
+https://github.com/wishihab/Android-RATList
+<br>
+https://github.com/vusec/drammer
+<br>
+https://github.com/ufrisk/pcileech
+<br>
+
+<hr>
+
+<h1>Linux OS</h1>
+https://github.com/xairy/linux-kernel-exploitation
+<br>
+<hr>
+
 <h1>FUD RAT</h1>
 https://github.com/chinarulezzz/pixload
 <p>#payload #behind #image</p>

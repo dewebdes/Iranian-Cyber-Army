@@ -13,6 +13,10 @@ https://github.com/BryanGIG/LibDumper
 <br>
 https://github.com/CyberSaxosTiGER/androidDump
 <br>
+https://github.com/topjohnwu/libsu
+<br>
+https://github.com/maiyao1988/elf-dump-fix
+<br>
 
 <hr>
 

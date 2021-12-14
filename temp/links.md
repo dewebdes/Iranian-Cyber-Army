@@ -169,6 +169,8 @@ https://github.com/synacktiv/HopLa
 <br>
 https://portswigger.net/burp/documentation/desktop/tools/dominvader
 <br>
+https://github.com/tangxiaofeng7/BurpLog4j2Scan
+<br>
 
 <hr>
 <h1>SQL Inject</h1>

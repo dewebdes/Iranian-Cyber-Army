@@ -26,6 +26,9 @@ https://github.com/xairy/linux-kernel-exploitation
 <hr>
 
 <h1>FUD RAT</h1>
+https://github.com/Mr-Un1k0d3r/DKMC
+<p>#image #payload #behind</p>
+<br>
 https://nakedsecurity.sophos.com/2019/02/08/android-vulnerabilities-open-pie-to-booby-trapped-image-attacks/
 <br>
 https://github.com/googleprojectzero/SkCodecFuzzer

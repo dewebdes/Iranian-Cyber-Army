@@ -988,4 +988,8 @@ https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-po
 <br>
 https://www.blackhat.com/eu-21/briefings/schedule/index.html#veni-no-vidi-no-vici-attacks-on-etw-blind-edr-sensors-24842
 <br>
+<hr>
+<h1>Telegram</h1>
+https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
+<br>
 

@@ -127,7 +127,11 @@ https://github.com/9-s3c/osprey-v3/blob/master/osprey3.py
 <br>
 https://github.com/enaqx/awesome-pentest
 <br>
-
+https://github.com/tihanyin/PSSW100AVB
+<p>
+#powershell
+</p>
+<br>
 <hr>
 
 <h1>Repo</h1>

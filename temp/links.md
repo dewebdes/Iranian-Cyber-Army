@@ -863,7 +863,8 @@ https://www.linkedin.com/in/jonaslejon/detail/recent-activity/shares/
 <br>
 https://www.linkedin.com/in/meisameslahi/detail/recent-activity/shares/
 <br>
-
+https://www.linkedin.com/in/corkami/
+<br>
 <hr>
 <h1>Platforms</h1>
 https://www.hackthebox.eu/

@@ -26,6 +26,9 @@ https://github.com/xairy/linux-kernel-exploitation
 <hr>
 
 <h1>FUD RAT</h1>
+https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
+<p>#ghostscript #exploit</p>
+<br>
 https://github.com/corkami/mitra
 <p>#polyglots #abuses</p>
 <br>

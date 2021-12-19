@@ -26,6 +26,12 @@ https://github.com/xairy/linux-kernel-exploitation
 <hr>
 
 <h1>FUD RAT</h1>
+https://github.com/mindcrypt/powerglot
+<br>
+https://github.com/mindcrypt/polyglot
+<p>#polygot</p>
+<br>
+
 https://github.com/duc-nt/RCE-0-day-for-GhostScript-9.50
 <p>#ghostscript #exploit</p>
 <br>

@@ -1005,4 +1005,6 @@ https://www.blackhat.com/eu-21/briefings/schedule/index.html#veni-no-vidi-no-vic
 <h1>Telegram</h1>
 https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
 <br>
+https://fgmember.com/secret-telegram-message/
+<br>
 

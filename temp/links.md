@@ -1007,4 +1007,8 @@ https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
 <br>
 https://fgmember.com/secret-telegram-message/
 <br>
+<hr>
+<h1>Linux Management</h1>
+https://askubuntu.com/questions/1269493/ubuntu-server-20-04-1-lts-not-all-disk-space-was-allocated-during-installation
+<br>
 

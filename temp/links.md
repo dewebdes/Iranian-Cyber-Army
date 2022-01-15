@@ -1,3 +1,9 @@
+<h1>Pegasus</h1>
+https://github.com/jonathandata1/pegasus_spyware
+<br>
+
+<hr>
+
 <h1>Android OS</h1>
 https://github.com/carlospolop/hacktricks/blob/master/mobile-apps-pentesting/android-app-pentesting/webview-attacks.md
 <br>

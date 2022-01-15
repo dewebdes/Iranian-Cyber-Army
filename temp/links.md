@@ -32,6 +32,9 @@ https://github.com/xairy/linux-kernel-exploitation
 <hr>
 
 <h1>FUD RAT</h1>
+https://github.com/0xsp-SRD/mortar
+<p>#EXE</p>
+<br>
 https://github.com/optiv/Ivy
 <p>#VBA</p>
 <br>

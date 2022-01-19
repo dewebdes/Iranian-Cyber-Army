@@ -446,7 +446,8 @@ https://github.com/penetrarnya-tm/WeaponizeKali.sh
 <br>
 https://github.com/projectdiscovery/nuclei
 <br>
-
+https://github.com/ffuf/ffuf
+<br>
 <hr>
 <h1>backdoor</h1>
 

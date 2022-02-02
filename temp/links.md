@@ -1,3 +1,8 @@
+<h1>Exploit search</h1>
+https://sploitus.com/
+<br>
+<hr>
+
 <h1>Social Attacks</h1>
 https://mrd0x.com/
 <br>

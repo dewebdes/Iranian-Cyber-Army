@@ -73,3 +73,7 @@ nmap -sP server-ip
 
 #check snort log on server
 tail /var/log/snort/alert_fast.txt
+
+#test DOS with hping
+hping3 -1 --flood server-ip
+hping3 -S --flood -V -p 80 server-ip

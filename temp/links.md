@@ -20,6 +20,8 @@ https://github.com/jonathandata1/pegasus_spyware
 <hr>
 
 <h1>Android OS</h1>
+https://github.com/eudemonics/stagefright
+<br>
 https://github.com/carlospolop/hacktricks/blob/master/mobile-apps-pentesting/android-app-pentesting/webview-attacks.md
 <br>
 https://github.com/anatolikalysch/roots_a11y

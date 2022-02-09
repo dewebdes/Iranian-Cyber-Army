@@ -881,6 +881,8 @@ https://github.com/W1nz0N/FBH
 <h1>Instagram</h1>
 https://github.com/Araekiel/instahunter
 <br>
+https://github.com/vv1ck/Brute-Force-instagram
+<br>
 
 <hr>
 <h1>Github</h1>

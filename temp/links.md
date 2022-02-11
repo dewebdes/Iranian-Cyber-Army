@@ -257,6 +257,8 @@ https://portswigger.net/burp/documentation/desktop/tools/dominvader
 <br>
 https://github.com/tangxiaofeng7/BurpLog4j2Scan
 <br>
+https://portswigger.net/blog/breaking-encrypted-data-using-burp
+<br>
 
 <hr>
 <h1>SQL Inject</h1>

@@ -1,3 +1,15 @@
+<h1>Reverse DNS</h1>
+https://www.google.com/search?q=international+dns+query+github&rlz=1C1ONGR_deDE985IR985&oq=international+dns+query+github&aqs=chrome..69i57.11071j0j7&sourceid=chrome&ie=UTF-8
+<br>
+https://github.com/vincent178/DNS
+<br>
+https://github.com/DmitryFillo/berserker_resolver
+<br>
+https://github.com/YoSmudge/dnsyo
+<br>
+https://hackertarget.com/reverse-ip-lookup/
+<br>
+<hr>
 <h1>After hack</h1>
 https://github.com/mufeedvh/moonwalk
 <br>

@@ -9,6 +9,9 @@ https://github.com/YoSmudge/dnsyo
 <br>
 https://hackertarget.com/reverse-ip-lookup/
 <br>
+https://github.com/chrismaddalena/ODIN
+<br>
+
 <hr>
 <h1>After hack</h1>
 https://github.com/mufeedvh/moonwalk

@@ -1,6 +1,13 @@
 <h1>Email Market</h1>
 https://www.youtube.com/watch?v=HA5tLHG80js
 <br>
+https://sector035.nl/articles/getting-a-grasp-on-google-ids
+<br>
+https://sector035.nl/articles/keeping-a-grip-on-google-ids
+<br>
+https://github.com/mxrch/GHunt
+<br>
+
 <hr>
 
 <h1>Reverse DNS</h1>

@@ -350,6 +350,9 @@ https://blog.sucuri.net/2021/08/examining-unique-magento-backdoors.html
 
 <hr>
 <h1>CVE</h1>
+https://github.com/advisories
+<p>#github #security #cve #database</p>
+
 https://github.com/RhinoSecurityLabs/CVEs
 <br>
 https://bugtraq.securityfocus.com/archive

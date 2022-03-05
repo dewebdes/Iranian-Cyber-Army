@@ -304,6 +304,8 @@ https://github.com/tangxiaofeng7/BurpLog4j2Scan
 <br>
 https://portswigger.net/blog/breaking-encrypted-data-using-burp
 <br>
+https://www.acunetix.com/blog/web-security-zone/http-header-injection/
+<br>
 
 <hr>
 <h1>SQL Inject</h1>

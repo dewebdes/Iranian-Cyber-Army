@@ -1089,6 +1089,8 @@ https://github.com/nexxius/Pentest-Strata-for-Bedrock
 <br>
 https://github.com/hellowuzekai/blockchains/blob/master/Phishing.md
 <br>
+https://github.com/IBM/watson-stock-market-predictor
+<br>
 <hr>
 <h1>windows</h1>
 https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/

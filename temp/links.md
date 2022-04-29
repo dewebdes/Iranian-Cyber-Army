@@ -518,6 +518,8 @@ https://github.com/projectdiscovery/nuclei
 <br>
 https://github.com/ffuf/ffuf
 <br>
+https://github.com/BishopFox/sliver
+<br>
 <hr>
 <h1>backdoor</h1>
 

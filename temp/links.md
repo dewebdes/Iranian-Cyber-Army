@@ -520,6 +520,8 @@ https://github.com/ffuf/ffuf
 <br>
 https://github.com/BishopFox/sliver
 <br>
+https://github.com/projectdiscovery/nuclei
+
 <hr>
 <h1>backdoor</h1>
 

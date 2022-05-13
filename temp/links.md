@@ -104,6 +104,8 @@ https://github.com/xairy/linux-kernel-exploitation
 <hr>
 
 <h1>FUD RAT</h1>
+https://www.blackhatethicalhacking.com/tools/malicious-pdf/
+<br>
 https://github.com/0xsp-SRD/mortar
 <p>#EXE</p>
 <br>

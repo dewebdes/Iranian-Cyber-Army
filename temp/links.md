@@ -7,6 +7,8 @@ https://memoryleaks.ir/
 <br>
 https://www.youtube.com/results?search_query=%D8%A2%D8%B3%DB%8C%D8%A8%E2%80%8C%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C
 <br>
+https://twitter.com/voorivex
+<br>
 
 <hr>
 

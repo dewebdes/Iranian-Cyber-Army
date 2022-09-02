@@ -1,3 +1,9 @@
+<h1>Write Up</h1>
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+<br>
+
+<hr>
+
 <h1>Request</h1>
 https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
 <br>

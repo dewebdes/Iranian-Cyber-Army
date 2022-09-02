@@ -1,6 +1,8 @@
 <h1>Write Up</h1>
 https://bugdasht.ir/reports
 <br>
+https://www.youtube.com/watch?v=29IH7I2U_MI
+<br>
 
 <hr>
 

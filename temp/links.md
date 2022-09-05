@@ -1,3 +1,8 @@
+<h1>Learn</h1>
+https://ine.com/pricing
+<br>
+<hr>
+
 <h1>Write Up</h1>
 https://bugdasht.ir/reports
 <br>

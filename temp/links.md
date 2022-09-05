@@ -18,6 +18,12 @@ https://www.youtube.com/results?search_query=Vulnerability+on+the+site
 <br>
 https://github.com/Voorivex
 <br>
+https://www.google.com/search?q=dom+xss+poc&rlz=1C1ONGR_deDE985IR985&oq=dom+xss+po&aqs=chrome.1.0i512l2j69i57j0i22i30l7.6268j0j7&sourceid=chrome&ie=UTF-8
+<br>
+https://www.youtube.com/results?search_query=xss+poc
+<br>
+https://www.youtube.com/results?search_query=nginx+poc
+<br>
 
 <hr>
 

@@ -21,6 +21,9 @@ https://www.youtube.com/results?search_query=nginx+poc
 <br>
 https://www.youtube.com/results?search_query=pentestlab
 <br>
+https://www.youtube.com/results?search_query=hackbox+machine
+<br>
+
 <hr>
 
 <h1>Request</h1>

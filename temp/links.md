@@ -1,8 +1,3 @@
-<h1>Learn</h1>
-https://ine.com/pricing
-<br>
-<hr>
-
 <h1>Write Up</h1>
 https://bugdasht.ir/reports
 <br>
@@ -24,7 +19,8 @@ https://www.youtube.com/results?search_query=xss+poc
 <br>
 https://www.youtube.com/results?search_query=nginx+poc
 <br>
-
+https://www.youtube.com/results?search_query=pentestlab
+<br>
 <hr>
 
 <h1>Request</h1>

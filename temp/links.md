@@ -355,6 +355,8 @@ https://portswigger.net/blog/breaking-encrypted-data-using-burp
 <br>
 https://www.acunetix.com/blog/web-security-zone/http-header-injection/
 <br>
+https://github.com/nccgroup/jwt-reauth
+<br>
 
 <hr>
 <h1>SQL Inject</h1>

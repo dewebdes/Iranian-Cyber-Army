@@ -23,6 +23,8 @@ https://www.youtube.com/results?search_query=pentestlab
 <br>
 https://www.youtube.com/results?search_query=hackbox+machine
 <br>
+https://github.com/TalEliyahu/awesome-security-newsletters
+<br>
 
 <hr>
 

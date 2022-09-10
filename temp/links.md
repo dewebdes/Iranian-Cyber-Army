@@ -29,6 +29,8 @@ https://github.com/carlospolop/hacktricks
 <br>
 https://github.com/daffainfo/AllAboutBugBounty
 <br>
+https://www.youtube.com/playlist?list=PLHKPm_f41K_6MN1ate7afD5s2lIPanKX2
+<br>
 
 <hr>
 

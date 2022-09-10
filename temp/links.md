@@ -25,6 +25,10 @@ https://www.youtube.com/results?search_query=hackbox+machine
 <br>
 https://github.com/TalEliyahu/awesome-security-newsletters
 <br>
+https://github.com/carlospolop/hacktricks
+<br>
+https://github.com/daffainfo/AllAboutBugBounty
+<br>
 
 <hr>
 

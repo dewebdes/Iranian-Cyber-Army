@@ -848,7 +848,8 @@ https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_R
 <br>
 https://blog.sonarsource.com/moodle-remote-code-execution?redirect=rips
 <br>
-
+https://xsshunter.com/
+<br>
 <hr>
 <h1>Browser</h1>
 https://www.forcepoint.com/sites/default/files/resources/files/report-attacking-internal-network-en_0.pdf

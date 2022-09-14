@@ -35,6 +35,8 @@ https://github.com/akr3ch/BugBountyBooks
 <br>
 https://github.com/projectdiscovery/nuclei-templates
 <br>
+https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
+<br>
 
 <hr>
 

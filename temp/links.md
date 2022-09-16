@@ -37,7 +37,8 @@ https://github.com/projectdiscovery/nuclei-templates
 <br>
 https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 <br>
-
+https://www.youtube.com/c/thehackerish
+<br>
 <hr>
 
 <h1>Request</h1>

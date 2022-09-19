@@ -39,6 +39,9 @@ https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 <br>
 https://www.youtube.com/c/thehackerish
 <br>
+https://www.youtube.com/c/Bugcrowd
+<br>
+
 <hr>
 
 <h1>Request</h1>

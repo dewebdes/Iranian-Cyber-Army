@@ -45,6 +45,8 @@ http://www.projanco.com/%D9%8Earticles/%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%8
 <br>
 https://pentester.land/list-of-bug-bounty-writeups.html
 <br>
+https://www.youtube.com/results?search_query=bypass+jwt
+<br>
 
 <hr>
 

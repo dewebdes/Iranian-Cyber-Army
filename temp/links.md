@@ -43,6 +43,8 @@ https://www.youtube.com/c/Bugcrowd
 <br>
 http://www.projanco.com/%D9%8Earticles/%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87
 <br>
+https://pentester.land/list-of-bug-bounty-writeups.html
+<br>
 
 <hr>
 

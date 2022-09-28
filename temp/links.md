@@ -47,6 +47,8 @@ https://pentester.land/list-of-bug-bounty-writeups.html
 <br>
 https://www.youtube.com/results?search_query=bypass+jwt
 <br>
+https://www.youtube.com/c/zSecurity
+<br>
 
 <hr>
 

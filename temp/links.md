@@ -51,6 +51,8 @@ https://www.youtube.com/c/zSecurity
 <br>
 https://www.youtube.com/watch?v=F0xKXT5IyEk&list=RDLVF0xKXT5IyEk&start_radio=1&rv=F0xKXT5IyEk&t=46
 <br>
+https://ctftime.org/writeups
+<br>
 
 <hr>
 

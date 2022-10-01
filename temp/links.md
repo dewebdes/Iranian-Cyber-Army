@@ -53,6 +53,8 @@ https://www.youtube.com/watch?v=F0xKXT5IyEk&list=RDLVF0xKXT5IyEk&start_radio=1&r
 <br>
 https://ctftime.org/writeups
 <br>
+https://archive.aachen.ccc.de/33c3ctf.ccc.ac/challenges/index.html
+<br>
 
 <hr>
 

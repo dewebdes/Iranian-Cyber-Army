@@ -57,6 +57,8 @@ https://archive.aachen.ccc.de/33c3ctf.ccc.ac/challenges/index.html
 <br>
 https://tc.gts3.org/cs6265/2021/tut/tut07-02-remote.html
 <br>
+https://www.youtube.com/c/jonathandata1
+<br>
 
 <hr>
 

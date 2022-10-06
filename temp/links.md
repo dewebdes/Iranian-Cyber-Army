@@ -59,6 +59,8 @@ https://tc.gts3.org/cs6265/2021/tut/tut07-02-remote.html
 <br>
 https://www.youtube.com/c/jonathandata1
 <br>
+https://www.youtube.com/watch?v=4HxUmbOcN6Y&list=RDLV4HxUmbOcN6Y&start_radio=1&rv=4HxUmbOcN6Y&t=24
+<br>
 
 <hr>
 

@@ -64,6 +64,12 @@ https://www.youtube.com/watch?v=4HxUmbOcN6Y&list=RDLV4HxUmbOcN6Y&start_radio=1&r
 
 <hr>
 
+<h1>subdomain takeover</h1>
+https://github.com/LukaSikic/subzy
+<br>
+
+<hr>
+
 <h1>Request</h1>
 https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
 <br>

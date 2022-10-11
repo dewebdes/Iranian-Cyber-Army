@@ -61,6 +61,8 @@ https://www.youtube.com/c/jonathandata1
 <br>
 https://www.youtube.com/watch?v=4HxUmbOcN6Y&list=RDLV4HxUmbOcN6Y&start_radio=1&rv=4HxUmbOcN6Y&t=24
 <br>
+https://github.com/jstrosch/malware-samples
+<br>
 
 <hr>
 

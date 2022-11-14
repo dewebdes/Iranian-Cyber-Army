@@ -1,4 +1,6 @@
 <h1>Write Up</h1>
+https://github.com/projectdiscovery/nuclei
+<br>
 https://bugdasht.ir/reports
 <br>
 https://www.youtube.com/watch?v=29IH7I2U_MI
@@ -618,6 +620,9 @@ https://github.com/ffuf/ffuf
 https://github.com/BishopFox/sliver
 <br>
 https://github.com/projectdiscovery/nuclei
+<br>
+https://github.com/projectdiscovery/nuclei
+<br>
 
 <hr>
 <h1>backdoor</h1>

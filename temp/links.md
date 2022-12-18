@@ -148,6 +148,9 @@ https://github.com/ariary/gitar
 <h1>Exploit search</h1>
 https://sploitus.com/
 <br>
+https://osv.dev/
+<br>
+
 <hr>
 
 <h1>Social Attacks</h1>
